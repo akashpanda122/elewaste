@@ -1,4 +1,4 @@
-# Elewaste: Elevate your E-aste
+# Elewaste: Elevate your E-waste
 
 ## Problem Statement
  Almost 50 million metric ton e-waste are disposed every year. The environmental and health issues create by e-waste are really lethal. Every year only 12% e-waste are recycled. The adversities are so high that just 2% of e-waste causes 70% of toxic waste. Also people don't know what to do with their e-waste/
